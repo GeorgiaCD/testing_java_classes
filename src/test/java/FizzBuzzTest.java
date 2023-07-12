@@ -56,7 +56,7 @@ public class FizzBuzzTest {
     }
 
 
-    // 4. Given a number, our function should return the number if is not divisible by 3 and 5;
+    // 4. Given a number, our function should return the number if is not divisible by 3 or 5;
     @Test
     public void canReturnNumber(){
     //  given
